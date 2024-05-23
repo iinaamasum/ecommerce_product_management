@@ -12,3 +12,5 @@ async function main() {
     console.log('Server Connection Error. ', err);
   }
 }
+
+main();
